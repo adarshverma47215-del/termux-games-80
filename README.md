@@ -12,8 +12,7 @@
         <a href="https://github.com/FajarKim/termux-games/stargazers"><img src="https://img.shields.io/github/stars/FajarKim/termux-games?style=flat"/></a>
         <a href="https://github.com/FajarKim/termux-games/network/members"><img src="https://img.shields.io/github/forks/FajarKim/termux-games?style=flat"/></a>
         <a href="https://github.com/FajarKim/termux-games/issues"><img src="https://img.shields.io/github/issues/FajarKim/termux-games"/></a>
-    </p>
-</div>
+    
 
 **Termux Games** is a lightweight and easy-to-use utility designed for playing games directly in the Termux app. Perfect for users with limited internal storage or without internet access, this tool offers an engaging and responsive graphical interface.
 
